@@ -1,0 +1,30 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 475px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}.u-section-2 .u-sheet-1 {
+  min-height: 572px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 450px;
+  height: 300px;
+  margin: 30px auto 20px;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 499px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 227px;
+  }
+}
